@@ -95,4 +95,7 @@ answer  #print answer in console
 
 ![4](https://user-images.githubusercontent.com/103854541/219899377-e7cd9b66-b91a-41ac-8b7a-453ca7e9389f.jpg)
 
-As we can see, the more times we iterate, the closer we get to E(X).
+As we can see, the more times we iterate, the closer we get to E(X)= 68.2%
+
+
+Absolutely loved this exercise, the link to the R course [here](https://www.udemy.com/course/r-programming/)
