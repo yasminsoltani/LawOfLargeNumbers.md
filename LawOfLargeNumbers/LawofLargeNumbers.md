@@ -56,7 +56,7 @@ answer  #print answer in console
 
 ![1](https://user-images.githubusercontent.com/103854541/219899291-21b7e29b-3491-41f3-a77f-8229593c7fc8.jpg)
 
-Because we want E(X) to oscillate between 68.2%, we try increase N to 1000
+Because we want E(X) to get closer to 68.2%, we try increase N to 1000
 
 ```R
 N <- 1000 #specify sample size
