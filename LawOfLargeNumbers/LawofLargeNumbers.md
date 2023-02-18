@@ -98,4 +98,4 @@ answer  #print answer in console
 As we can see, the more times we iterate, the closer we get to E(X)= 68.2%
 
 
-Absolutely loved this exercise, the link to the R course [here](https://www.udemy.com/course/r-programming/)
+☞ Absolutely loved this exercise, the link to the R course by Kirill Emerenko [here](https://www.udemy.com/course/r-programming/)
